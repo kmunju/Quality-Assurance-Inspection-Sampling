@@ -24,6 +24,8 @@ a1|θ2 = 1000 (shipped a bad lot, cost of lost good will, replacement, damages, 
 a2|θ1 = 400 (scrapping a good lot, lost cost of production) 
 a2|θ2 = 400 (scrapping a bad lot, lost cost of production)
 
+Problem to be solved:
+
 a. Determine the optimal sampling plan given the information above where samples are taken simultaneously. The sampling plan will state the number (n) to sample and the strategy of whether to choose a1 or a2 based on the results of the sample(s). 
 
 
